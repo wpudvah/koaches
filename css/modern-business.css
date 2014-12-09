@@ -8,9 +8,10 @@
 
 html,
 body {
-    background-image: url();
+    background-image: url(http://bgfons.com/upload/wood%20_texture3173.jpg);
     height: 100%;
 }
+
 
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
